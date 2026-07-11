@@ -1,0 +1,236 @@
+{
+  "levelId": 4,
+  "levelName": "Qalqalah",
+  "questions": [
+    {
+      "id": "l4-q1",
+      "levelId": 4,
+      "verseText": "يَجْعَلْ لَهُ",
+      "verseReference": "At-Talaq 65:2",
+      "highlightRange": [0, 13],
+      "correctAnswer": {
+        "id": "qalqalah-sughra",
+        "arabicName": "قلقلة صغرى",
+        "indonesianName": "Qalqalah Sughra",
+        "category": "Qalqalah",
+        "explanation": "Jim bersukun asli berada di tengah bacaan sehingga dipantulkan ringan."
+      },
+      "options": [
+        {
+          "id": "qalqalah-sughra",
+          "arabicName": "قلقلة صغرى",
+          "indonesianName": "Qalqalah Sughra"
+        },
+        { "id": "qalqalah-kubra", "arabicName": "قلقلة كبرى", "indonesianName": "Qalqalah Kubra" },
+        { "id": "not-qalqalah", "arabicName": "ليس قلقلة", "indonesianName": "Bukan Qalqalah" }
+      ]
+    },
+    {
+      "id": "l4-q2",
+      "levelId": 4,
+      "verseText": "أَطْعَمَهُمْ مِنْ جُوعٍ",
+      "verseReference": "Quraysh 106:4",
+      "highlightRange": [0, 23],
+      "correctAnswer": {
+        "id": "qalqalah-sughra",
+        "arabicName": "قلقلة صغرى",
+        "indonesianName": "Qalqalah Sughra",
+        "category": "Qalqalah",
+        "explanation": "Tha bersukun asli berada di tengah kata sehingga dipantulkan ringan."
+      },
+      "options": [
+        {
+          "id": "qalqalah-sughra",
+          "arabicName": "قلقلة صغرى",
+          "indonesianName": "Qalqalah Sughra"
+        },
+        { "id": "qalqalah-kubra", "arabicName": "قلقلة كبرى", "indonesianName": "Qalqalah Kubra" },
+        { "id": "not-qalqalah", "arabicName": "ليس قلقلة", "indonesianName": "Bukan Qalqalah" }
+      ]
+    },
+    {
+      "id": "l4-q3",
+      "levelId": 4,
+      "verseText": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+      "verseReference": "Al-Falaq 113:1 (waqaf)",
+      "highlightRange": [0, 30],
+      "correctAnswer": {
+        "id": "qalqalah-kubra",
+        "arabicName": "قلقلة كبرى",
+        "indonesianName": "Qalqalah Kubra",
+        "category": "Qalqalah",
+        "explanation": "Qaf menjadi sukun karena waqaf sehingga dipantulkan lebih kuat."
+      },
+      "options": [
+        { "id": "qalqalah-kubra", "arabicName": "قلقلة كبرى", "indonesianName": "Qalqalah Kubra" },
+        {
+          "id": "qalqalah-sughra",
+          "arabicName": "قلقلة صغرى",
+          "indonesianName": "Qalqalah Sughra"
+        },
+        { "id": "not-qalqalah", "arabicName": "ليس قلقلة", "indonesianName": "Bukan Qalqalah" }
+      ]
+    },
+    {
+      "id": "l4-q4",
+      "levelId": 4,
+      "verseText": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+      "verseReference": "Al-Ikhlas 112:1 (waqaf)",
+      "highlightRange": [0, 24],
+      "correctAnswer": {
+        "id": "qalqalah-kubra",
+        "arabicName": "قلقلة كبرى",
+        "indonesianName": "Qalqalah Kubra",
+        "category": "Qalqalah",
+        "explanation": "Dal di akhir ayat menjadi sukun ketika waqaf sehingga dipantulkan kuat."
+      },
+      "options": [
+        { "id": "qalqalah-kubra", "arabicName": "قلقلة كبرى", "indonesianName": "Qalqalah Kubra" },
+        {
+          "id": "qalqalah-sughra",
+          "arabicName": "قلقلة صغرى",
+          "indonesianName": "Qalqalah Sughra"
+        },
+        { "id": "not-qalqalah", "arabicName": "ليس قلقلة", "indonesianName": "Bukan Qalqalah" }
+      ]
+    },
+    {
+      "id": "l4-q5",
+      "levelId": 4,
+      "verseText": "تَبَّتْ يَدَا أَبِي لَهَبٍ",
+      "verseReference": "Al-Masad 111:1 (waqaf)",
+      "highlightRange": [0, 26],
+      "correctAnswer": {
+        "id": "qalqalah-kubra",
+        "arabicName": "قلقلة كبرى",
+        "indonesianName": "Qalqalah Kubra",
+        "category": "Qalqalah",
+        "explanation": "Ba di akhir kata menjadi sukun ketika waqaf sehingga dipantulkan kuat."
+      },
+      "options": [
+        { "id": "qalqalah-kubra", "arabicName": "قلقلة كبرى", "indonesianName": "Qalqalah Kubra" },
+        {
+          "id": "qalqalah-sughra",
+          "arabicName": "قلقلة صغرى",
+          "indonesianName": "Qalqalah Sughra"
+        },
+        { "id": "not-qalqalah", "arabicName": "ليس قلقلة", "indonesianName": "Bukan Qalqalah" }
+      ]
+    },
+    {
+      "id": "l4-q6",
+      "levelId": 4,
+      "verseText": "يَقْطَعُونَ مَا أَمَرَ اللَّهُ",
+      "verseReference": "Al-Baqarah 2:27",
+      "highlightRange": [0, 30],
+      "correctAnswer": {
+        "id": "qalqalah-sughra",
+        "arabicName": "قلقلة صغرى",
+        "indonesianName": "Qalqalah Sughra",
+        "category": "Qalqalah",
+        "explanation": "Qaf bersukun asli berada di tengah kata sehingga dipantulkan ringan."
+      },
+      "options": [
+        {
+          "id": "qalqalah-sughra",
+          "arabicName": "قلقلة صغرى",
+          "indonesianName": "Qalqalah Sughra"
+        },
+        { "id": "qalqalah-kubra", "arabicName": "قلقلة كبرى", "indonesianName": "Qalqalah Kubra" },
+        { "id": "not-qalqalah", "arabicName": "ليس قلقلة", "indonesianName": "Bukan Qalqalah" }
+      ]
+    },
+    {
+      "id": "l4-q7",
+      "levelId": 4,
+      "verseText": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+      "verseReference": "Al-Kawthar 108:3",
+      "highlightRange": [0, 32],
+      "correctAnswer": {
+        "id": "qalqalah-sughra",
+        "arabicName": "قلقلة صغرى",
+        "indonesianName": "Qalqalah Sughra",
+        "category": "Qalqalah",
+        "explanation": "Ba bersukun asli berada di tengah kata sehingga dipantulkan ringan."
+      },
+      "options": [
+        {
+          "id": "qalqalah-sughra",
+          "arabicName": "قلقلة صغرى",
+          "indonesianName": "Qalqalah Sughra"
+        },
+        { "id": "qalqalah-kubra", "arabicName": "قلقلة كبرى", "indonesianName": "Qalqalah Kubra" },
+        { "id": "not-qalqalah", "arabicName": "ليس قلقلة", "indonesianName": "Bukan Qalqalah" }
+      ]
+    },
+    {
+      "id": "l4-q8",
+      "levelId": 4,
+      "verseText": "يَدْخُلُونَ فِي دِينِ اللَّهِ",
+      "verseReference": "An-Nasr 110:2",
+      "highlightRange": [0, 29],
+      "correctAnswer": {
+        "id": "qalqalah-sughra",
+        "arabicName": "قلقلة صغرى",
+        "indonesianName": "Qalqalah Sughra",
+        "category": "Qalqalah",
+        "explanation": "Dal bersukun asli berada di tengah kata sehingga dipantulkan ringan."
+      },
+      "options": [
+        {
+          "id": "qalqalah-sughra",
+          "arabicName": "قلقلة صغرى",
+          "indonesianName": "Qalqalah Sughra"
+        },
+        { "id": "qalqalah-kubra", "arabicName": "قلقلة كبرى", "indonesianName": "Qalqalah Kubra" },
+        { "id": "not-qalqalah", "arabicName": "ليس قلقلة", "indonesianName": "Bukan Qalqalah" }
+      ]
+    },
+    {
+      "id": "l4-q9",
+      "levelId": 4,
+      "verseText": "وَاللَّهُ مِنْ وَرَائِهِمْ مُحِيطٌ",
+      "verseReference": "Al-Buruj 85:20 (waqaf)",
+      "highlightRange": [0, 34],
+      "correctAnswer": {
+        "id": "qalqalah-kubra",
+        "arabicName": "قلقلة كبرى",
+        "indonesianName": "Qalqalah Kubra",
+        "category": "Qalqalah",
+        "explanation": "Tha di akhir ayat menjadi sukun ketika waqaf sehingga dipantulkan kuat."
+      },
+      "options": [
+        { "id": "qalqalah-kubra", "arabicName": "قلقلة كبرى", "indonesianName": "Qalqalah Kubra" },
+        {
+          "id": "qalqalah-sughra",
+          "arabicName": "قلقلة صغرى",
+          "indonesianName": "Qalqalah Sughra"
+        },
+        { "id": "not-qalqalah", "arabicName": "ليس قلقلة", "indonesianName": "Bukan Qalqalah" }
+      ]
+    },
+    {
+      "id": "l4-q10",
+      "levelId": 4,
+      "verseText": "وَاجْعَلْ لِي وَزِيرًا",
+      "verseReference": "Taha 20:29",
+      "highlightRange": [0, 22],
+      "correctAnswer": {
+        "id": "qalqalah-sughra",
+        "arabicName": "قلقلة صغرى",
+        "indonesianName": "Qalqalah Sughra",
+        "category": "Qalqalah",
+        "explanation": "Jim bersukun asli berada di tengah kata sehingga dipantulkan ringan."
+      },
+      "options": [
+        {
+          "id": "qalqalah-sughra",
+          "arabicName": "قلقلة صغرى",
+          "indonesianName": "Qalqalah Sughra"
+        },
+        { "id": "qalqalah-kubra", "arabicName": "قلقلة كبرى", "indonesianName": "Qalqalah Kubra" },
+        { "id": "not-qalqalah", "arabicName": "ليس قلقلة", "indonesianName": "Bukan Qalqalah" }
+      ]
+    }
+  ]
+}

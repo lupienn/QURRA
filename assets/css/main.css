@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    color-scheme: light;
+    background: theme('colors.qurra.cream');
+  }
+
+  body {
+    min-width: 320px;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Nunito, ui-sans-serif, system-ui, sans-serif;
+    text-rendering: optimizeLegibility;
+  }
+
+  :focus-visible {
+    outline: 3px solid theme('colors.qurra.gold');
+    outline-offset: 3px;
+  }
+}
+
+@layer components {
+  .qurra-panel {
+    @apply rounded-3xl border border-qurra-gold/20 bg-white/80 shadow-card backdrop-blur;
+  }
+
+  .qurra-button {
+    @apply inline-flex min-h-11 items-center justify-center gap-2 rounded-2xl bg-qurra-green px-5 py-3 font-bold text-white shadow-lg transition duration-200 hover:-translate-y-0.5 hover:bg-qurra-green-dark active:translate-y-0 motion-reduce:transform-none;
+  }
+
+  .arabic-text {
+    @apply font-arabic leading-[1.9];
+    direction: rtl;
+  }
+}

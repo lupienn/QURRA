@@ -1,0 +1,280 @@
+{
+  "levelId": 3,
+  "levelName": "Mad",
+  "questions": [
+    {
+      "id": "l3-q1",
+      "levelId": 3,
+      "verseText": "قَالَ رَبِّ",
+      "verseReference": "Al-Baqarah 2:30",
+      "highlightRange": [0, 11],
+      "correctAnswer": {
+        "id": "mad-thabii",
+        "arabicName": "مد طبيعي",
+        "indonesianName": "Mad Thabi'i",
+        "category": "Mad",
+        "explanation": "Huruf mad tidak diikuti hamzah atau sukun sehingga dibaca dua harakat."
+      },
+      "options": [
+        { "id": "mad-thabii", "arabicName": "مد طبيعي", "indonesianName": "Mad Thabi'i" },
+        {
+          "id": "mad-wajib-muttasil",
+          "arabicName": "مد واجب متصل",
+          "indonesianName": "Mad Wajib Muttasil"
+        },
+        {
+          "id": "mad-jaiz-munfasil",
+          "arabicName": "مد جائز منفصل",
+          "indonesianName": "Mad Jaiz Munfasil"
+        },
+        {
+          "id": "mad-arid-lissukun",
+          "arabicName": "مد عارض للسكون",
+          "indonesianName": "Mad Arid Lissukun"
+        }
+      ]
+    },
+    {
+      "id": "l3-q2",
+      "levelId": 3,
+      "verseText": "جَاءَ نَصْرُ اللَّهِ",
+      "verseReference": "An-Nasr 110:1",
+      "highlightRange": [0, 20],
+      "correctAnswer": {
+        "id": "mad-wajib-muttasil",
+        "arabicName": "مد واجب متصل",
+        "indonesianName": "Mad Wajib Muttasil",
+        "category": "Mad",
+        "explanation": "Huruf mad bertemu hamzah dalam satu kata sehingga dipanjangkan empat atau lima harakat."
+      },
+      "options": [
+        {
+          "id": "mad-wajib-muttasil",
+          "arabicName": "مد واجب متصل",
+          "indonesianName": "Mad Wajib Muttasil"
+        },
+        { "id": "mad-thabii", "arabicName": "مد طبيعي", "indonesianName": "Mad Thabi'i" },
+        {
+          "id": "mad-jaiz-munfasil",
+          "arabicName": "مد جائز منفصل",
+          "indonesianName": "Mad Jaiz Munfasil"
+        },
+        { "id": "mad-badal", "arabicName": "مد بدل", "indonesianName": "Mad Badal" }
+      ]
+    },
+    {
+      "id": "l3-q3",
+      "levelId": 3,
+      "verseText": "فِي أَنْفُسِكُمْ",
+      "verseReference": "Adh-Dhariyat 51:21",
+      "highlightRange": [0, 16],
+      "correctAnswer": {
+        "id": "mad-jaiz-munfasil",
+        "arabicName": "مد جائز منفصل",
+        "indonesianName": "Mad Jaiz Munfasil",
+        "category": "Mad",
+        "explanation": "Huruf mad berada di akhir kata dan hamzah berada di awal kata berikutnya."
+      },
+      "options": [
+        {
+          "id": "mad-jaiz-munfasil",
+          "arabicName": "مد جائز منفصل",
+          "indonesianName": "Mad Jaiz Munfasil"
+        },
+        {
+          "id": "mad-wajib-muttasil",
+          "arabicName": "مد واجب متصل",
+          "indonesianName": "Mad Wajib Muttasil"
+        },
+        { "id": "mad-thabii", "arabicName": "مد طبيعي", "indonesianName": "Mad Thabi'i" },
+        {
+          "id": "mad-silah-tawilah",
+          "arabicName": "مد صلة طويلة",
+          "indonesianName": "Mad Silah Tawilah"
+        }
+      ]
+    },
+    {
+      "id": "l3-q4",
+      "levelId": 3,
+      "verseText": "الْعَالَمِينَ",
+      "verseReference": "Al-Fatihah 1:2 (waqaf)",
+      "highlightRange": [0, 13],
+      "correctAnswer": {
+        "id": "mad-arid-lissukun",
+        "arabicName": "مد عارض للسكون",
+        "indonesianName": "Mad Arid Lissukun",
+        "category": "Mad",
+        "explanation": "Ketika waqaf, huruf terakhir menjadi sukun sementara setelah huruf mad."
+      },
+      "options": [
+        {
+          "id": "mad-arid-lissukun",
+          "arabicName": "مد عارض للسكون",
+          "indonesianName": "Mad Arid Lissukun"
+        },
+        { "id": "mad-thabii", "arabicName": "مد طبيعي", "indonesianName": "Mad Thabi'i" },
+        { "id": "mad-iwad", "arabicName": "مد عوض", "indonesianName": "Mad Iwad" },
+        { "id": "mad-lin", "arabicName": "مد لين", "indonesianName": "Mad Lin" }
+      ]
+    },
+    {
+      "id": "l3-q5",
+      "levelId": 3,
+      "verseText": "آمَنُوا",
+      "verseReference": "Al-Baqarah 2:9",
+      "highlightRange": [0, 7],
+      "correctAnswer": {
+        "id": "mad-badal",
+        "arabicName": "مد بدل",
+        "indonesianName": "Mad Badal",
+        "category": "Mad",
+        "explanation": "Hamzah mendahului huruf mad dalam satu kata sehingga dibaca dua harakat."
+      },
+      "options": [
+        { "id": "mad-badal", "arabicName": "مد بدل", "indonesianName": "Mad Badal" },
+        { "id": "mad-thabii", "arabicName": "مد طبيعي", "indonesianName": "Mad Thabi'i" },
+        {
+          "id": "mad-wajib-muttasil",
+          "arabicName": "مد واجب متصل",
+          "indonesianName": "Mad Wajib Muttasil"
+        }
+      ]
+    },
+    {
+      "id": "l3-q6",
+      "levelId": 3,
+      "verseText": "وَلَا الضَّالِّينَ",
+      "verseReference": "Al-Fatihah 1:7",
+      "highlightRange": [0, 18],
+      "correctAnswer": {
+        "id": "mad-lazim-kalimi-muthaqqal",
+        "arabicName": "مد لازم كلمي مثقل",
+        "indonesianName": "Mad Lazim Kalimi Muthaqqal",
+        "category": "Mad",
+        "explanation": "Huruf mad diikuti huruf bertasydid dalam satu kata sehingga dibaca enam harakat."
+      },
+      "options": [
+        {
+          "id": "mad-lazim-kalimi-muthaqqal",
+          "arabicName": "مد لازم كلمي مثقل",
+          "indonesianName": "Mad Lazim Kalimi Muthaqqal"
+        },
+        {
+          "id": "mad-arid-lissukun",
+          "arabicName": "مد عارض للسكون",
+          "indonesianName": "Mad Arid Lissukun"
+        },
+        {
+          "id": "mad-wajib-muttasil",
+          "arabicName": "مد واجب متصل",
+          "indonesianName": "Mad Wajib Muttasil"
+        }
+      ]
+    },
+    {
+      "id": "l3-q7",
+      "levelId": 3,
+      "verseText": "مِنْ خَوْفٍ",
+      "verseReference": "Quraysh 106:4 (waqaf)",
+      "highlightRange": [0, 11],
+      "correctAnswer": {
+        "id": "mad-lin",
+        "arabicName": "مد لين",
+        "indonesianName": "Mad Lin",
+        "category": "Mad",
+        "explanation": "Waw sukun didahului fathah dan dibaca panjang ketika waqaf."
+      },
+      "options": [
+        { "id": "mad-lin", "arabicName": "مد لين", "indonesianName": "Mad Lin" },
+        {
+          "id": "mad-arid-lissukun",
+          "arabicName": "مد عارض للسكون",
+          "indonesianName": "Mad Arid Lissukun"
+        },
+        { "id": "mad-thabii", "arabicName": "مد طبيعي", "indonesianName": "Mad Thabi'i" }
+      ]
+    },
+    {
+      "id": "l3-q8",
+      "levelId": 3,
+      "verseText": "إِنَّهُ كَانَ",
+      "verseReference": "Al-Isra 17:25",
+      "highlightRange": [0, 13],
+      "correctAnswer": {
+        "id": "mad-silah-qasirah",
+        "arabicName": "مد صلة قصيرة",
+        "indonesianName": "Mad Silah Qasirah",
+        "category": "Mad",
+        "explanation": "Ha dhamir berada di antara dua huruf berharakat dan tidak diikuti hamzah."
+      },
+      "options": [
+        {
+          "id": "mad-silah-qasirah",
+          "arabicName": "مد صلة قصيرة",
+          "indonesianName": "Mad Silah Qasirah"
+        },
+        {
+          "id": "mad-silah-tawilah",
+          "arabicName": "مد صلة طويلة",
+          "indonesianName": "Mad Silah Tawilah"
+        },
+        { "id": "mad-thabii", "arabicName": "مد طبيعي", "indonesianName": "Mad Thabi'i" }
+      ]
+    },
+    {
+      "id": "l3-q9",
+      "levelId": 3,
+      "verseText": "مَالَهُ أَخْلَدَهُ",
+      "verseReference": "Al-Humazah 104:3",
+      "highlightRange": [0, 18],
+      "correctAnswer": {
+        "id": "mad-silah-tawilah",
+        "arabicName": "مد صلة طويلة",
+        "indonesianName": "Mad Silah Tawilah",
+        "category": "Mad",
+        "explanation": "Ha dhamir diikuti hamzah pada kata berikutnya sehingga dibaca panjang."
+      },
+      "options": [
+        {
+          "id": "mad-silah-tawilah",
+          "arabicName": "مد صلة طويلة",
+          "indonesianName": "Mad Silah Tawilah"
+        },
+        {
+          "id": "mad-silah-qasirah",
+          "arabicName": "مد صلة قصيرة",
+          "indonesianName": "Mad Silah Qasirah"
+        },
+        {
+          "id": "mad-jaiz-munfasil",
+          "arabicName": "مد جائز منفصل",
+          "indonesianName": "Mad Jaiz Munfasil"
+        }
+      ]
+    },
+    {
+      "id": "l3-q10",
+      "levelId": 3,
+      "verseText": "عَلِيمًا",
+      "verseReference": "An-Nisa 4:17 (waqaf)",
+      "highlightRange": [0, 8],
+      "correctAnswer": {
+        "id": "mad-iwad",
+        "arabicName": "مد عوض",
+        "indonesianName": "Mad Iwad",
+        "category": "Mad",
+        "explanation": "Tanwin fathah di akhir kata diganti bacaan panjang dua harakat ketika waqaf."
+      },
+      "options": [
+        { "id": "mad-iwad", "arabicName": "مد عوض", "indonesianName": "Mad Iwad" },
+        {
+          "id": "mad-arid-lissukun",
+          "arabicName": "مد عارض للسكون",
+          "indonesianName": "Mad Arid Lissukun"
+        },
+        { "id": "mad-thabii", "arabicName": "مد طبيعي", "indonesianName": "Mad Thabi'i" }
+      ]
+    }
+  ]
+}

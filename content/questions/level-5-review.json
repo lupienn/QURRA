@@ -1,0 +1,233 @@
+{
+  "levelId": 5,
+  "levelName": "Review Tajwid",
+  "questions": [
+    {
+      "id": "l5-q1",
+      "levelId": 5,
+      "verseText": "مِنْ نِعْمَةٍ",
+      "verseReference": "An-Nahl 16:53",
+      "highlightRange": [0, 13],
+      "correctAnswer": {
+        "id": "idgham-bighunnah",
+        "arabicName": "إدغام بغنة",
+        "indonesianName": "Idgham Bighunnah",
+        "category": "Review",
+        "explanation": "Nun sukun bertemu nun sehingga dilebur dengan dengung."
+      },
+      "options": [
+        {
+          "id": "idgham-bighunnah",
+          "arabicName": "إدغام بغنة",
+          "indonesianName": "Idgham Bighunnah"
+        },
+        { "id": "ikhfa-haqiqi", "arabicName": "إخفاء حقيقي", "indonesianName": "Ikhfa Haqiqi" },
+        { "id": "izhar-halqi", "arabicName": "إظهار حلقي", "indonesianName": "Izhar Halqi" },
+        { "id": "iqlab", "arabicName": "إقلاب", "indonesianName": "Iqlab" }
+      ]
+    },
+    {
+      "id": "l5-q2",
+      "levelId": 5,
+      "verseText": "عَلَيْهِمْ بِمُصَيْطِرٍ",
+      "verseReference": "Al-Ghashiyah 88:22",
+      "highlightRange": [0, 23],
+      "correctAnswer": {
+        "id": "ikhfa-syafawi",
+        "arabicName": "إخفاء شفوي",
+        "indonesianName": "Ikhfa Syafawi",
+        "category": "Review",
+        "explanation": "Mim sukun bertemu ba sehingga dibaca samar dengan dengung."
+      },
+      "options": [
+        { "id": "ikhfa-syafawi", "arabicName": "إخفاء شفوي", "indonesianName": "Ikhfa Syafawi" },
+        { "id": "idgham-mimi", "arabicName": "إدغام ميمي", "indonesianName": "Idgham Mimi" },
+        { "id": "izhar-syafawi", "arabicName": "إظهار شفوي", "indonesianName": "Izhar Syafawi" }
+      ]
+    },
+    {
+      "id": "l5-q3",
+      "levelId": 5,
+      "verseText": "السَّمَاءِ",
+      "verseReference": "Al-Baqarah 2:19",
+      "highlightRange": [0, 10],
+      "correctAnswer": {
+        "id": "mad-wajib-muttasil",
+        "arabicName": "مد واجب متصل",
+        "indonesianName": "Mad Wajib Muttasil",
+        "category": "Review",
+        "explanation": "Huruf mad bertemu hamzah dalam satu kata sehingga dipanjangkan empat atau lima harakat."
+      },
+      "options": [
+        {
+          "id": "mad-wajib-muttasil",
+          "arabicName": "مد واجب متصل",
+          "indonesianName": "Mad Wajib Muttasil"
+        },
+        {
+          "id": "mad-jaiz-munfasil",
+          "arabicName": "مد جائز منفصل",
+          "indonesianName": "Mad Jaiz Munfasil"
+        },
+        { "id": "mad-thabii", "arabicName": "مد طبيعي", "indonesianName": "Mad Thabi'i" }
+      ]
+    },
+    {
+      "id": "l5-q4",
+      "levelId": 5,
+      "verseText": "وَالْفَجْرِ",
+      "verseReference": "Al-Fajr 89:1",
+      "highlightRange": [0, 11],
+      "correctAnswer": {
+        "id": "qalqalah-sughra",
+        "arabicName": "قلقلة صغرى",
+        "indonesianName": "Qalqalah Sughra",
+        "category": "Review",
+        "explanation": "Jim bersukun asli berada di tengah bacaan sehingga dipantulkan ringan."
+      },
+      "options": [
+        {
+          "id": "qalqalah-sughra",
+          "arabicName": "قلقلة صغرى",
+          "indonesianName": "Qalqalah Sughra"
+        },
+        { "id": "qalqalah-kubra", "arabicName": "قلقلة كبرى", "indonesianName": "Qalqalah Kubra" },
+        { "id": "not-qalqalah", "arabicName": "ليس قلقلة", "indonesianName": "Bukan Qalqalah" }
+      ]
+    },
+    {
+      "id": "l5-q5",
+      "levelId": 5,
+      "verseText": "مِنْ عِلْمٍ",
+      "verseReference": "Al-Jathiyah 45:24",
+      "highlightRange": [0, 11],
+      "correctAnswer": {
+        "id": "izhar-halqi",
+        "arabicName": "إظهار حلقي",
+        "indonesianName": "Izhar Halqi",
+        "category": "Review",
+        "explanation": "Nun sukun bertemu ain sehingga dibaca jelas."
+      },
+      "options": [
+        { "id": "izhar-halqi", "arabicName": "إظهار حلقي", "indonesianName": "Izhar Halqi" },
+        { "id": "ikhfa-haqiqi", "arabicName": "إخفاء حقيقي", "indonesianName": "Ikhfa Haqiqi" },
+        {
+          "id": "idgham-bighunnah",
+          "arabicName": "إدغام بغنة",
+          "indonesianName": "Idgham Bighunnah"
+        }
+      ]
+    },
+    {
+      "id": "l5-q6",
+      "levelId": 5,
+      "verseText": "لَهُمْ مَغْفِرَةٌ",
+      "verseReference": "Al-Mulk 67:12",
+      "highlightRange": [0, 17],
+      "correctAnswer": {
+        "id": "idgham-mimi",
+        "arabicName": "إدغام ميمي",
+        "indonesianName": "Idgham Mimi",
+        "category": "Review",
+        "explanation": "Mim sukun bertemu mim sehingga dilebur dengan dengung."
+      },
+      "options": [
+        { "id": "idgham-mimi", "arabicName": "إدغام ميمي", "indonesianName": "Idgham Mimi" },
+        { "id": "ikhfa-syafawi", "arabicName": "إخفاء شفوي", "indonesianName": "Ikhfa Syafawi" },
+        { "id": "izhar-syafawi", "arabicName": "إظهار شفوي", "indonesianName": "Izhar Syafawi" }
+      ]
+    },
+    {
+      "id": "l5-q7",
+      "levelId": 5,
+      "verseText": "بِمَا أُنْزِلَ",
+      "verseReference": "Al-Baqarah 2:4",
+      "highlightRange": [0, 14],
+      "correctAnswer": {
+        "id": "mad-jaiz-munfasil",
+        "arabicName": "مد جائز منفصل",
+        "indonesianName": "Mad Jaiz Munfasil",
+        "category": "Review",
+        "explanation": "Huruf mad berada di akhir kata dan hamzah berada di awal kata berikutnya."
+      },
+      "options": [
+        {
+          "id": "mad-jaiz-munfasil",
+          "arabicName": "مد جائز منفصل",
+          "indonesianName": "Mad Jaiz Munfasil"
+        },
+        {
+          "id": "mad-wajib-muttasil",
+          "arabicName": "مد واجب متصل",
+          "indonesianName": "Mad Wajib Muttasil"
+        },
+        { "id": "mad-thabii", "arabicName": "مد طبيعي", "indonesianName": "Mad Thabi'i" }
+      ]
+    },
+    {
+      "id": "l5-q8",
+      "levelId": 5,
+      "verseText": "غَاسِقٍ إِذَا وَقَبَ",
+      "verseReference": "Al-Falaq 113:3",
+      "highlightRange": [0, 20],
+      "correctAnswer": {
+        "id": "izhar-halqi",
+        "arabicName": "إظهار حلقي",
+        "indonesianName": "Izhar Halqi",
+        "category": "Review",
+        "explanation": "Tanwin bertemu hamzah sehingga dibaca jelas."
+      },
+      "options": [
+        { "id": "izhar-halqi", "arabicName": "إظهار حلقي", "indonesianName": "Izhar Halqi" },
+        { "id": "ikhfa-haqiqi", "arabicName": "إخفاء حقيقي", "indonesianName": "Ikhfa Haqiqi" },
+        { "id": "iqlab", "arabicName": "إقلاب", "indonesianName": "Iqlab" }
+      ]
+    },
+    {
+      "id": "l5-q9",
+      "levelId": 5,
+      "verseText": "أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "verseReference": "At-Tin 95:6",
+      "highlightRange": [0, 23],
+      "correctAnswer": {
+        "id": "izhar-halqi",
+        "arabicName": "إظهار حلقي",
+        "indonesianName": "Izhar Halqi",
+        "category": "Review",
+        "explanation": "Tanwin bertemu ghain sehingga dibaca jelas."
+      },
+      "options": [
+        { "id": "izhar-halqi", "arabicName": "إظهار حلقي", "indonesianName": "Izhar Halqi" },
+        {
+          "id": "idgham-bighunnah",
+          "arabicName": "إدغام بغنة",
+          "indonesianName": "Idgham Bighunnah"
+        },
+        { "id": "ikhfa-haqiqi", "arabicName": "إخفاء حقيقي", "indonesianName": "Ikhfa Haqiqi" }
+      ]
+    },
+    {
+      "id": "l5-q10",
+      "levelId": 5,
+      "verseText": "وَتَبَّ",
+      "verseReference": "Al-Masad 111:1 (waqaf)",
+      "highlightRange": [0, 7],
+      "correctAnswer": {
+        "id": "qalqalah-kubra",
+        "arabicName": "قلقلة كبرى",
+        "indonesianName": "Qalqalah Kubra",
+        "category": "Review",
+        "explanation": "Ba bertasydid di akhir bacaan dipantulkan kuat ketika waqaf."
+      },
+      "options": [
+        { "id": "qalqalah-kubra", "arabicName": "قلقلة كبرى", "indonesianName": "Qalqalah Kubra" },
+        {
+          "id": "qalqalah-sughra",
+          "arabicName": "قلقلة صغرى",
+          "indonesianName": "Qalqalah Sughra"
+        },
+        { "id": "not-qalqalah", "arabicName": "ليس قلقلة", "indonesianName": "Bukan Qalqalah" }
+      ]
+    }
+  ]
+}

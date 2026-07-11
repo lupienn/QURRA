@@ -1,0 +1,196 @@
+{
+  "levelId": 2,
+  "levelName": "Mim Sukun",
+  "questions": [
+    {
+      "id": "l2-q1",
+      "levelId": 2,
+      "verseText": "تَرْمِيهِمْ بِحِجَارَةٍ",
+      "verseReference": "Al-Fil 105:4",
+      "highlightRange": [0, 23],
+      "correctAnswer": {
+        "id": "ikhfa-syafawi",
+        "arabicName": "إخفاء شفوي",
+        "indonesianName": "Ikhfa Syafawi",
+        "category": "Mim Sukun",
+        "explanation": "Mim sukun bertemu ba sehingga dibaca samar di bibir dengan dengung."
+      },
+      "options": [
+        { "id": "ikhfa-syafawi", "arabicName": "إخفاء شفوي", "indonesianName": "Ikhfa Syafawi" },
+        { "id": "idgham-mimi", "arabicName": "إدغام ميمي", "indonesianName": "Idgham Mimi" },
+        { "id": "izhar-syafawi", "arabicName": "إظهار شفوي", "indonesianName": "Izhar Syafawi" }
+      ]
+    },
+    {
+      "id": "l2-q2",
+      "levelId": 2,
+      "verseText": "لَهُمْ مَا يَشَاءُونَ",
+      "verseReference": "Az-Zumar 39:34",
+      "highlightRange": [0, 21],
+      "correctAnswer": {
+        "id": "idgham-mimi",
+        "arabicName": "إدغام ميمي",
+        "indonesianName": "Idgham Mimi",
+        "category": "Mim Sukun",
+        "explanation": "Mim sukun bertemu mim sehingga keduanya dilebur dengan dengung."
+      },
+      "options": [
+        { "id": "idgham-mimi", "arabicName": "إدغام ميمي", "indonesianName": "Idgham Mimi" },
+        { "id": "ikhfa-syafawi", "arabicName": "إخفاء شفوي", "indonesianName": "Ikhfa Syafawi" },
+        { "id": "izhar-syafawi", "arabicName": "إظهار شفوي", "indonesianName": "Izhar Syafawi" }
+      ]
+    },
+    {
+      "id": "l2-q3",
+      "levelId": 2,
+      "verseText": "عَلَيْهِمْ وَلَا الضَّالِّينَ",
+      "verseReference": "Al-Fatihah 1:7",
+      "highlightRange": [0, 29],
+      "correctAnswer": {
+        "id": "izhar-syafawi",
+        "arabicName": "إظهار شفوي",
+        "indonesianName": "Izhar Syafawi",
+        "category": "Mim Sukun",
+        "explanation": "Mim sukun bertemu waw sehingga mim dibaca jelas tanpa dengung tambahan."
+      },
+      "options": [
+        { "id": "izhar-syafawi", "arabicName": "إظهار شفوي", "indonesianName": "Izhar Syafawi" },
+        { "id": "ikhfa-syafawi", "arabicName": "إخفاء شفوي", "indonesianName": "Ikhfa Syafawi" },
+        { "id": "idgham-mimi", "arabicName": "إدغام ميمي", "indonesianName": "Idgham Mimi" }
+      ]
+    },
+    {
+      "id": "l2-q4",
+      "levelId": 2,
+      "verseText": "أَنْعَمْتَ عَلَيْهِمْ",
+      "verseReference": "Al-Fatihah 1:7",
+      "highlightRange": [0, 21],
+      "correctAnswer": {
+        "id": "izhar-syafawi",
+        "arabicName": "إظهار شفوي",
+        "indonesianName": "Izhar Syafawi",
+        "category": "Mim Sukun",
+        "explanation": "Mim sukun bertemu ta sehingga dibaca jelas."
+      },
+      "options": [
+        { "id": "izhar-syafawi", "arabicName": "إظهار شفوي", "indonesianName": "Izhar Syafawi" },
+        { "id": "idgham-mimi", "arabicName": "إدغام ميمي", "indonesianName": "Idgham Mimi" },
+        { "id": "ikhfa-syafawi", "arabicName": "إخفاء شفوي", "indonesianName": "Ikhfa Syafawi" }
+      ]
+    },
+    {
+      "id": "l2-q5",
+      "levelId": 2,
+      "verseText": "كَمْ مِنْ فِئَةٍ",
+      "verseReference": "Al-Baqarah 2:249",
+      "highlightRange": [0, 16],
+      "correctAnswer": {
+        "id": "idgham-mimi",
+        "arabicName": "إدغام ميمي",
+        "indonesianName": "Idgham Mimi",
+        "category": "Mim Sukun",
+        "explanation": "Mim sukun bertemu mim sehingga dilebur dengan dengung."
+      },
+      "options": [
+        { "id": "idgham-mimi", "arabicName": "إدغام ميمي", "indonesianName": "Idgham Mimi" },
+        { "id": "izhar-syafawi", "arabicName": "إظهار شفوي", "indonesianName": "Izhar Syafawi" },
+        { "id": "ikhfa-syafawi", "arabicName": "إخفاء شفوي", "indonesianName": "Ikhfa Syafawi" }
+      ]
+    },
+    {
+      "id": "l2-q6",
+      "levelId": 2,
+      "verseText": "هُمْ بِالْآخِرَةِ",
+      "verseReference": "Al-Baqarah 2:4",
+      "highlightRange": [0, 17],
+      "correctAnswer": {
+        "id": "ikhfa-syafawi",
+        "arabicName": "إخفاء شفوي",
+        "indonesianName": "Ikhfa Syafawi",
+        "category": "Mim Sukun",
+        "explanation": "Mim sukun bertemu ba sehingga dibaca samar dengan dengung."
+      },
+      "options": [
+        { "id": "ikhfa-syafawi", "arabicName": "إخفاء شفوي", "indonesianName": "Ikhfa Syafawi" },
+        { "id": "izhar-syafawi", "arabicName": "إظهار شفوي", "indonesianName": "Izhar Syafawi" },
+        { "id": "idgham-mimi", "arabicName": "إدغام ميمي", "indonesianName": "Idgham Mimi" }
+      ]
+    },
+    {
+      "id": "l2-q7",
+      "levelId": 2,
+      "verseText": "لَكُمْ دِينُكُمْ",
+      "verseReference": "Al-Kafirun 109:6",
+      "highlightRange": [0, 16],
+      "correctAnswer": {
+        "id": "izhar-syafawi",
+        "arabicName": "إظهار شفوي",
+        "indonesianName": "Izhar Syafawi",
+        "category": "Mim Sukun",
+        "explanation": "Mim sukun bertemu dal sehingga dibaca jelas."
+      },
+      "options": [
+        { "id": "izhar-syafawi", "arabicName": "إظهار شفوي", "indonesianName": "Izhar Syafawi" },
+        { "id": "ikhfa-syafawi", "arabicName": "إخفاء شفوي", "indonesianName": "Ikhfa Syafawi" },
+        { "id": "idgham-mimi", "arabicName": "إدغام ميمي", "indonesianName": "Idgham Mimi" }
+      ]
+    },
+    {
+      "id": "l2-q8",
+      "levelId": 2,
+      "verseText": "أَمْ خُلِقُوا مِنْ غَيْرِ شَيْءٍ",
+      "verseReference": "At-Tur 52:35",
+      "highlightRange": [0, 32],
+      "correctAnswer": {
+        "id": "izhar-syafawi",
+        "arabicName": "إظهار شفوي",
+        "indonesianName": "Izhar Syafawi",
+        "category": "Mim Sukun",
+        "explanation": "Mim sukun bertemu kha sehingga dibaca jelas."
+      },
+      "options": [
+        { "id": "izhar-syafawi", "arabicName": "إظهار شفوي", "indonesianName": "Izhar Syafawi" },
+        { "id": "idgham-mimi", "arabicName": "إدغام ميمي", "indonesianName": "Idgham Mimi" },
+        { "id": "ikhfa-syafawi", "arabicName": "إخفاء شفوي", "indonesianName": "Ikhfa Syafawi" }
+      ]
+    },
+    {
+      "id": "l2-q9",
+      "levelId": 2,
+      "verseText": "عَلَيْهِمْ مُؤْصَدَةٌ",
+      "verseReference": "Al-Humazah 104:8",
+      "highlightRange": [0, 21],
+      "correctAnswer": {
+        "id": "idgham-mimi",
+        "arabicName": "إدغام ميمي",
+        "indonesianName": "Idgham Mimi",
+        "category": "Mim Sukun",
+        "explanation": "Mim sukun bertemu mim sehingga dilebur dengan dengung."
+      },
+      "options": [
+        { "id": "idgham-mimi", "arabicName": "إدغام ميمي", "indonesianName": "Idgham Mimi" },
+        { "id": "ikhfa-syafawi", "arabicName": "إخفاء شفوي", "indonesianName": "Ikhfa Syafawi" },
+        { "id": "izhar-syafawi", "arabicName": "إظهار شفوي", "indonesianName": "Izhar Syafawi" }
+      ]
+    },
+    {
+      "id": "l2-q10",
+      "levelId": 2,
+      "verseText": "رَبُّهُمْ بِهِمْ",
+      "verseReference": "Al-Adiyat 100:11",
+      "highlightRange": [0, 16],
+      "correctAnswer": {
+        "id": "ikhfa-syafawi",
+        "arabicName": "إخفاء شفوي",
+        "indonesianName": "Ikhfa Syafawi",
+        "category": "Mim Sukun",
+        "explanation": "Mim sukun bertemu ba sehingga dibaca samar dengan dengung."
+      },
+      "options": [
+        { "id": "ikhfa-syafawi", "arabicName": "إخفاء شفوي", "indonesianName": "Ikhfa Syafawi" },
+        { "id": "izhar-syafawi", "arabicName": "إظهار شفوي", "indonesianName": "Izhar Syafawi" },
+        { "id": "idgham-mimi", "arabicName": "إدغام ميمي", "indonesianName": "Idgham Mimi" }
+      ]
+    }
+  ]
+}

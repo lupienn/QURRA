@@ -1,0 +1,252 @@
+{
+  "levelId": 1,
+  "levelName": "Nun Sukun & Tanwin",
+  "questions": [
+    {
+      "id": "l1-q1",
+      "levelId": 1,
+      "verseText": "مِنْ شَرِّ مَا خَلَقَ",
+      "verseReference": "Al-Falaq 113:2",
+      "highlightRange": [0, 21],
+      "correctAnswer": {
+        "id": "ikhfa-haqiqi",
+        "arabicName": "إخفاء حقيقي",
+        "indonesianName": "Ikhfa Haqiqi",
+        "category": "Nun Sukun & Tanwin",
+        "explanation": "Nun sukun bertemu huruf syin sehingga dibaca samar dengan dengung."
+      },
+      "options": [
+        { "id": "ikhfa-haqiqi", "arabicName": "إخفاء حقيقي", "indonesianName": "Ikhfa Haqiqi" },
+        { "id": "izhar-halqi", "arabicName": "إظهار حلقي", "indonesianName": "Izhar Halqi" },
+        { "id": "iqlab", "arabicName": "إقلاب", "indonesianName": "Iqlab" },
+        {
+          "id": "idgham-bighunnah",
+          "arabicName": "إدغام بغنة",
+          "indonesianName": "Idgham Bighunnah"
+        }
+      ]
+    },
+    {
+      "id": "l1-q2",
+      "levelId": 1,
+      "verseText": "مِنْ بَعْدِ مَا",
+      "verseReference": "Al-Baqarah 2:27",
+      "highlightRange": [0, 15],
+      "correctAnswer": {
+        "id": "iqlab",
+        "arabicName": "إقلاب",
+        "indonesianName": "Iqlab",
+        "category": "Nun Sukun & Tanwin",
+        "explanation": "Nun sukun bertemu ba sehingga bunyinya berubah menjadi mim samar disertai dengung."
+      },
+      "options": [
+        { "id": "iqlab", "arabicName": "إقلاب", "indonesianName": "Iqlab" },
+        { "id": "ikhfa-haqiqi", "arabicName": "إخفاء حقيقي", "indonesianName": "Ikhfa Haqiqi" },
+        { "id": "izhar-halqi", "arabicName": "إظهار حلقي", "indonesianName": "Izhar Halqi" },
+        {
+          "id": "idgham-bilaghunnah",
+          "arabicName": "إدغام بلا غنة",
+          "indonesianName": "Idgham Bila Ghunnah"
+        }
+      ]
+    },
+    {
+      "id": "l1-q3",
+      "levelId": 1,
+      "verseText": "مَنْ يَعْمَلْ",
+      "verseReference": "Az-Zalzalah 99:7",
+      "highlightRange": [0, 13],
+      "correctAnswer": {
+        "id": "idgham-bighunnah",
+        "arabicName": "إدغام بغنة",
+        "indonesianName": "Idgham Bighunnah",
+        "category": "Nun Sukun & Tanwin",
+        "explanation": "Nun sukun bertemu ya sehingga dilebur dengan dengung."
+      },
+      "options": [
+        {
+          "id": "idgham-bighunnah",
+          "arabicName": "إدغام بغنة",
+          "indonesianName": "Idgham Bighunnah"
+        },
+        {
+          "id": "idgham-bilaghunnah",
+          "arabicName": "إدغام بلا غنة",
+          "indonesianName": "Idgham Bila Ghunnah"
+        },
+        { "id": "iqlab", "arabicName": "إقلاب", "indonesianName": "Iqlab" },
+        { "id": "izhar-halqi", "arabicName": "إظهار حلقي", "indonesianName": "Izhar Halqi" }
+      ]
+    },
+    {
+      "id": "l1-q4",
+      "levelId": 1,
+      "verseText": "مِنْ رَبِّهِمْ",
+      "verseReference": "Al-Baqarah 2:5",
+      "highlightRange": [0, 14],
+      "correctAnswer": {
+        "id": "idgham-bilaghunnah",
+        "arabicName": "إدغام بلا غنة",
+        "indonesianName": "Idgham Bila Ghunnah",
+        "category": "Nun Sukun & Tanwin",
+        "explanation": "Nun sukun bertemu ra sehingga dilebur tanpa dengung."
+      },
+      "options": [
+        {
+          "id": "idgham-bilaghunnah",
+          "arabicName": "إدغام بلا غنة",
+          "indonesianName": "Idgham Bila Ghunnah"
+        },
+        {
+          "id": "idgham-bighunnah",
+          "arabicName": "إدغام بغنة",
+          "indonesianName": "Idgham Bighunnah"
+        },
+        { "id": "ikhfa-haqiqi", "arabicName": "إخفاء حقيقي", "indonesianName": "Ikhfa Haqiqi" },
+        { "id": "izhar-halqi", "arabicName": "إظهار حلقي", "indonesianName": "Izhar Halqi" }
+      ]
+    },
+    {
+      "id": "l1-q5",
+      "levelId": 1,
+      "verseText": "مِنْ هَادٍ",
+      "verseReference": "Ar-Ra'd 13:33",
+      "highlightRange": [0, 10],
+      "correctAnswer": {
+        "id": "izhar-halqi",
+        "arabicName": "إظهار حلقي",
+        "indonesianName": "Izhar Halqi",
+        "category": "Nun Sukun & Tanwin",
+        "explanation": "Nun sukun bertemu ha sehingga dibaca jelas dari makhrajnya."
+      },
+      "options": [
+        { "id": "izhar-halqi", "arabicName": "إظهار حلقي", "indonesianName": "Izhar Halqi" },
+        { "id": "ikhfa-haqiqi", "arabicName": "إخفاء حقيقي", "indonesianName": "Ikhfa Haqiqi" },
+        { "id": "iqlab", "arabicName": "إقلاب", "indonesianName": "Iqlab" }
+      ]
+    },
+    {
+      "id": "l1-q6",
+      "levelId": 1,
+      "verseText": "هُدًى لِّلْمُتَّقِينَ",
+      "verseReference": "Al-Baqarah 2:2",
+      "highlightRange": [0, 21],
+      "correctAnswer": {
+        "id": "idgham-bilaghunnah",
+        "arabicName": "إدغام بلا غنة",
+        "indonesianName": "Idgham Bila Ghunnah",
+        "category": "Nun Sukun & Tanwin",
+        "explanation": "Tanwin bertemu lam sehingga dilebur tanpa dengung."
+      },
+      "options": [
+        {
+          "id": "idgham-bilaghunnah",
+          "arabicName": "إدغام بلا غنة",
+          "indonesianName": "Idgham Bila Ghunnah"
+        },
+        {
+          "id": "idgham-bighunnah",
+          "arabicName": "إدغام بغنة",
+          "indonesianName": "Idgham Bighunnah"
+        },
+        { "id": "izhar-halqi", "arabicName": "إظهار حلقي", "indonesianName": "Izhar Halqi" }
+      ]
+    },
+    {
+      "id": "l1-q7",
+      "levelId": 1,
+      "verseText": "سَمِيعٌ عَلِيمٌ",
+      "verseReference": "Al-Baqarah 2:256",
+      "highlightRange": [0, 15],
+      "correctAnswer": {
+        "id": "izhar-halqi",
+        "arabicName": "إظهار حلقي",
+        "indonesianName": "Izhar Halqi",
+        "category": "Nun Sukun & Tanwin",
+        "explanation": "Tanwin bertemu ain sehingga dibaca jelas."
+      },
+      "options": [
+        { "id": "izhar-halqi", "arabicName": "إظهار حلقي", "indonesianName": "Izhar Halqi" },
+        { "id": "ikhfa-haqiqi", "arabicName": "إخفاء حقيقي", "indonesianName": "Ikhfa Haqiqi" },
+        {
+          "id": "idgham-bighunnah",
+          "arabicName": "إدغام بغنة",
+          "indonesianName": "Idgham Bighunnah"
+        }
+      ]
+    },
+    {
+      "id": "l1-q8",
+      "levelId": 1,
+      "verseText": "شَيْءٍ قَدِيرٌ",
+      "verseReference": "Al-Baqarah 2:20",
+      "highlightRange": [0, 14],
+      "correctAnswer": {
+        "id": "ikhfa-haqiqi",
+        "arabicName": "إخفاء حقيقي",
+        "indonesianName": "Ikhfa Haqiqi",
+        "category": "Nun Sukun & Tanwin",
+        "explanation": "Tanwin bertemu qaf sehingga dibaca samar dengan dengung."
+      },
+      "options": [
+        { "id": "ikhfa-haqiqi", "arabicName": "إخفاء حقيقي", "indonesianName": "Ikhfa Haqiqi" },
+        { "id": "iqlab", "arabicName": "إقلاب", "indonesianName": "Iqlab" },
+        { "id": "izhar-halqi", "arabicName": "إظهار حلقي", "indonesianName": "Izhar Halqi" }
+      ]
+    },
+    {
+      "id": "l1-q9",
+      "levelId": 1,
+      "verseText": "غَفُورٌ رَحِيمٌ",
+      "verseReference": "Al-Baqarah 2:173",
+      "highlightRange": [0, 15],
+      "correctAnswer": {
+        "id": "idgham-bilaghunnah",
+        "arabicName": "إدغام بلا غنة",
+        "indonesianName": "Idgham Bila Ghunnah",
+        "category": "Nun Sukun & Tanwin",
+        "explanation": "Tanwin bertemu ra sehingga dilebur tanpa dengung."
+      },
+      "options": [
+        {
+          "id": "idgham-bilaghunnah",
+          "arabicName": "إدغام بلا غنة",
+          "indonesianName": "Idgham Bila Ghunnah"
+        },
+        {
+          "id": "idgham-bighunnah",
+          "arabicName": "إدغام بغنة",
+          "indonesianName": "Idgham Bighunnah"
+        },
+        { "id": "ikhfa-haqiqi", "arabicName": "إخفاء حقيقي", "indonesianName": "Ikhfa Haqiqi" }
+      ]
+    },
+    {
+      "id": "l1-q10",
+      "levelId": 1,
+      "verseText": "مِنْ وَالٍ",
+      "verseReference": "Ar-Ra'd 13:11",
+      "highlightRange": [0, 10],
+      "correctAnswer": {
+        "id": "idgham-bighunnah",
+        "arabicName": "إدغام بغنة",
+        "indonesianName": "Idgham Bighunnah",
+        "category": "Nun Sukun & Tanwin",
+        "explanation": "Nun sukun bertemu waw sehingga dilebur dengan dengung."
+      },
+      "options": [
+        {
+          "id": "idgham-bighunnah",
+          "arabicName": "إدغام بغنة",
+          "indonesianName": "Idgham Bighunnah"
+        },
+        {
+          "id": "idgham-bilaghunnah",
+          "arabicName": "إدغام بلا غنة",
+          "indonesianName": "Idgham Bila Ghunnah"
+        },
+        { "id": "izhar-halqi", "arabicName": "إظهار حلقي", "indonesianName": "Izhar Halqi" }
+      ]
+    }
+  ]
+}
