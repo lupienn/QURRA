@@ -18,5 +18,3 @@ npm run lint
 npm run format:check
 npm run build
 ```
-
-Dokumen Spec-Driven Development tersedia di `.kiro/specs/qurra-game/`.
