@@ -21,7 +21,7 @@ export default defineNuxtConfig({
       meta: [
         {
           name: 'description',
-          content: 'QURRA — petualangan interaktif untuk mempelajari hukum tajwid.',
+          content: 'QURRA',
         },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       ],

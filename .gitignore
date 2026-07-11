@@ -1,3 +1,4 @@
+.kiro
 .nuxt
 .output
 .data
@@ -9,3 +10,7 @@ coverage
 .env.*
 !.env.example
 .DS_Store
+.agentrc
+.cursor
+.mcp
+.vscode
